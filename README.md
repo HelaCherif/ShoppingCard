@@ -1,2 +1,0 @@
-# ShoppingCard
-Created with CodeSandbox
